@@ -1,3 +1,9 @@
+> **Open the live app:** [Launch Relentless Animation Framework](https://dguzman-stormintel.github.io/relentless-animation-framework/Relentless%20Animation%20Framework.html)
+>
+> **Documentation website:** [Relentless project home](https://dguzman-stormintel.github.io/relentless-animation-framework/)
+
+GitHub Pages publishes the public repository's main branch from the root folder. Changes to main trigger a Pages build; check the repository Actions tab for deployment status. The project home displays this README; use the app link above to open the animation tool directly. The live app page has been verified to load; frame playback and movie export have not yet been tested end to end.
+
 # Relentless Animation Framework
 
 **From still images to motion pictures.**
